@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "hiFUiOcPz9YvFYlHjpshHmZkWoaJ9buF64qSGLJxPCE=",
+  "Source": "TicTacToe",
+  "BasePath": "_content/TicTacToe",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TicTacToe\\wwwroot",
+      "Source": "TicTacToe",
+      "ContentRoot": "C:\\Users\\ebank\\TicTacToe\\wwwroot\\",
+      "BasePath": "_content/TicTacToe",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ebank\\TicTacToe\\wwwroot\\app.js",
+      "SourceId": "TicTacToe",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ebank\\TicTacToe\\wwwroot\\",
+      "BasePath": "_content/TicTacToe",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    }
+  ]
+}
